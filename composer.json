@@ -1,0 +1,13 @@
+{
+  "name": "datracka/dynamic-menu-manager",
+  "type": "wordpress-plugin",
+  "package": {
+    "source": {
+      "url": "git@github.com:datracka/dynamic-menu-manager.git",
+      "type": "git"
+    },
+    "require": {
+      "composer/installers": "v1.0.6"
+    }
+  }
+}
